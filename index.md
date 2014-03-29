@@ -1,26 +1,29 @@
 ---
-layout: page
+layout: page-no-title
 title: Good News Everyone!!
 tagline: Progress is being made on all fronts
 ---
 {% include JB/setup %}
 
-It feels like I am trying to do a million things at once. What
-started out as learn to make video games, has turned into.
+<div class="jumbotron">
+    <div class="row">
+        <div class="col-xs-5 col-md-5">
+            <a href="#" class="thumbnail">
+            <img src="{{ site.url }}/../assets/daily-delirium/level-end.png" />
+            </a>
+        </div>
 
-- Learn Unity
-- Learn C#/mono
-- LEarn about game design/story telling
-- Figure out how to deploy to google play
-- Setup an online entity to publish my games under
-
-I am using the following software/services to accomplish the above:
-
-- Trello
-    - This is where I am managing my work
-- Github
-    - Using github sites
-    - Created a repo for issue management
-- Google Communities
-    - this is how I am managing my testers
-- Unity
+        <div class="col-xs-7 col-md-7">
+            <h1>Daily Delirium</h1>
+            <p>
+                A procedurally generated side scroller, that changes everyday!! Currently only
+                available for Android. I will be looking into iOS when I can afford to buy
+                apple's dev account.
+            </p>
+            <p>
+                <a class="btn btn-primary btn-lg" role="button" href="https://play.google.com/store/apps/details?id=com.mentallydefective.dreamtime.beta">Get it on Google Play</a>
+                <a class="btn btn-lg" role="button" href="http://defektivedevelopment.github.io/daily-delirium/">View Game Site</a>
+            </p>
+        </div>
+    </div>
+</div>
