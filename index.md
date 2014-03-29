@@ -33,7 +33,7 @@ tagline: Daily Delirium
     <div class="col-md-4">
         <div class="row">
             <div class="col-md-5">
-                <img src="{{ site.url }}/assets/fizzing-flask.png" alt="" class="img-circle" />
+                <img src="assets/fizzing-flask.png" alt="" class="img-circle" />
             </div>
             <div class="col-md-7">
                 <h3>Wanna beta test?</h3>
@@ -45,7 +45,7 @@ tagline: Daily Delirium
     <div class="col-md-4">
         <div class="row">
             <div class="col-md-5">
-                <img src="{{ site.url }}/assets/mite-alt.png" alt="" class="img-circle" />
+                <img src="assets/mite-alt.png" alt="" class="img-circle" />
             </div>
             <div class="col-md-7">
                 <h3>Find a Bug?</h3>
@@ -57,7 +57,7 @@ tagline: Daily Delirium
     <div class="col-md-4">
         <div class="row">
             <div class="col-md-5">
-                <img src="{{ site.url }}/assets/spyglass.png" alt="" class="img-circle" />
+                <img src="assets/spyglass.png" alt="" class="img-circle" />
             </div>
             <div class="col-md-7">
                 <h3>What's coming?</h3>
