@@ -8,9 +8,8 @@ tagline: Daily Delirium
 <div class="jumbotron">
     <div class="row">
         <div class="col-xs-5 col-md-5">
-            <a href="#" class="thumbnail">
-            <img src="{{ site.url }}/../assets/daily-delirium/level-end.png" />
-            </a>
+
+<iframe width="100%" height="235" src="//www.youtube.com/embed/nPungzUK8u8" frameborder="0" allowfullscreen></iframe>
         </div>
 
         <div class="col-xs-7 col-md-7">
